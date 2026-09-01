@@ -1,0 +1,13 @@
+invoice_id,date,vendor_name,amount,invoice_reference,status
+INV-001,Aug 20 2026,ABC Technologies Pvt Ltd,19277,REF-001,open
+INV-002,Aug 21 2026,TechSource Private Limited,12216,REF-002,open
+INV-003,Aug 22 2026,Nimbus Logistics Services,25820,REF-003,open
+INV-004,Aug 23 2026,Orion Traders,21456,REF-004,open
+INV-005,Aug 24 2026,Vertex Supplies,15776,REF-005,open
+INV-006,Aug 25 2026,Kalyan Textiles,27127,REF-006,open
+INV-007,Aug 26 2026,BrightPath Consulting,8400,REF-007,open
+INV-008,Aug 20 2026,Prime Components Ltd,31200,REF-008,open
+INV-009,Aug 22 2026,ABC Technologies,10500,REF-009,open
+INV-010,Aug 22 2026,TechSource Pvt Ltd,48000,REF-010,open
+INV-011,Aug 23 2026,Nimbus Logistics,22400,REF-011-NEW,open
+INV-012,Aug 24 2026,Vertex Supplies,6202,REF-012,open
