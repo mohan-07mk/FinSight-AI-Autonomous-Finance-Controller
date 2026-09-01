@@ -1,9 +1,0 @@
-transaction_id,date,vendor_name,amount,reference,type
-TXN-2001,2026-09-01,Acme Cloud Systems,15000.00,REF-2001,payment
-TXN-2002,2026-09-02,Global Logistics Ltd,24500.00,REF-2002,payment
-TXN-2003,2026-09-15,Nexus Software Inc,18200.00,REF-2003,payment
-TXN-2004A,2026-09-04,Vertex Tech Supplies,48000.00,REF-2004,payment
-TXN-2004B,2026-09-04,Vertex Tech Supplies,48000.00,REF-2004,payment
-TXN-2005,2026-09-05,Starlight Media,10000.00,REF-2005,payment
-TXN-2006,2026-09-06,Unknown Vendor Corp,135000.00,REF-2006,payment
-TXN-2007,2026-09-07,Apex Office Solutions,12400.00,REF-BANK-777,payment
