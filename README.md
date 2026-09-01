@@ -6,9 +6,9 @@ FinSight AI automates 3-way financial reconciliation across bank statements, ven
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Application
 
-> Add your Netlify Live URL here
+🔗 **Access FinSight AI:** [Launch FinSight AI](https://finsightaii.netlify.app/)
 
 ---
 
