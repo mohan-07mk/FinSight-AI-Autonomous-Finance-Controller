@@ -1,0 +1,8 @@
+invoice_id,date,vendor_name,amount,invoice_reference,status
+INV-2001,2026-09-01,Acme Cloud Systems,15000.00,REF-2001,open
+INV-2002,2026-09-02,Global Logistics Ltd,25000.00,REF-2002,open
+INV-2003,2026-08-20,Nexus Software Inc,18200.00,REF-2003,open
+INV-2004,2026-09-04,Vertex Tech Supplies,48000.00,REF-2004,open
+INV-2005,2026-09-05,Starlight Media,10500.00,REF-2005,open
+INV-2006,2026-09-06,Orion Traders India,135000.00,REF-2006,open
+INV-2007,2026-09-07,Apex Office Solutions,12400.00,PO-INV-999,open

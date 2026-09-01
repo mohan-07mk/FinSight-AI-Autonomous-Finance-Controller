@@ -1,0 +1,9 @@
+[build]
+  base = "finsight-app"
+  command = "npm run build"
+  publish = "finsight-app/dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

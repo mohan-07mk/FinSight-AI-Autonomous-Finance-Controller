@@ -1,0 +1,11 @@
+ledger_id,date,vendor_name,amount,reference,account_type
+LDG-001,Aug 20 2026,ABC Technologies,19277,REF-001,accounts_payable
+LDG-002,Aug 21 2026,TechSource Pvt Ltd,12216,REF-002,accounts_payable
+LDG-003,Aug 22 2026,Nimbus Logistics,25820,REF-003,accounts_payable
+LDG-004,Aug 23 2026,Orion Traders,20956,REF-004,accounts_payable
+LDG-005,Aug 24 2026,Vertex Supplies,14576,REF-005,accounts_payable
+LDG-006,Aug 25 2026,Kalyan Textiles,27927,REF-006,accounts_payable
+LDG-007,Aug 26 2026,BrightPath Consulting,8400,REF-007,accounts_payable
+LDG-008,Aug 20 2026,Prime Components,31200,REF-008,accounts_payable
+LDG-009,Aug 21 2026,ABC Technologies,10000,REF-009,accounts_payable
+LDG-010,Aug 22 2026,TechSource Pvt Ltd,48000,REF-010,accounts_payable
